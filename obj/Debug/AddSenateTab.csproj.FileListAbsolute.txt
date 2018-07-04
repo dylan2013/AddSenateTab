@@ -1,0 +1,21 @@
+E:\MyJob\Bitbucket\Desktop\AddSenateTab\bin\Debug\AddSenateTab.dll
+E:\MyJob\Bitbucket\Desktop\AddSenateTab\bin\Debug\AddSenateTab.pdb
+E:\MyJob\Bitbucket\Desktop\AddSenateTab\obj\Debug\AddSenateTab.csprojResolveAssemblyReference.cache
+E:\MyJob\Bitbucket\Desktop\AddSenateTab\obj\Debug\AddSenateTab.SenateTab.resources
+E:\MyJob\Bitbucket\Desktop\AddSenateTab\obj\Debug\AddSenateTab.csproj.GenerateResource.Cache
+E:\MyJob\Bitbucket\Desktop\AddSenateTab\obj\Debug\AddSenateTab.csproj.CoreCompileInputs.cache
+E:\MyJob\Bitbucket\Desktop\AddSenateTab\obj\Debug\AddSenateTab.dll
+E:\MyJob\Bitbucket\Desktop\AddSenateTab\obj\Debug\AddSenateTab.pdb
+E:\MyJob\ischool\ischool 高中\addmodules\Add\AddSenateTab.dll
+E:\MyJob\ischool\ischool 高中\addmodules\Add\AddSenateTab.pdb
+E:\MyJob\GitHub\AddSenateTab\obj\Debug\AddSenateTab.csprojResolveAssemblyReference.cache
+E:\MyJob\GitHub\AddSenateTab\obj\Debug\AddSenateTab.SenateTab.resources
+E:\MyJob\GitHub\AddSenateTab\obj\Debug\AddSenateTab.csproj.GenerateResource.Cache
+E:\MyJob\GitHub\AddSenateTab\obj\Debug\AddSenateTab.csproj.CoreCompileInputs.cache
+E:\MyJob\GitHub\AddSenateTab\obj\Debug\AddSenateTab.dll
+E:\MyJob\GitHub\AddSenateTab\obj\Debug\AddSenateTab.pdb
+E:\MyJob\ischool\ischool 高中 new\addmodules\AddTab\AddSenateTab.dll
+E:\MyJob\ischool\ischool 高中 new\addmodules\AddTab\AddSenateTab.pdb
+E:\MyJob\ischool\ischool 高中 new\modules\Dylan_PlugIn\AddSenateTab.dll
+E:\MyJob\ischool\ischool 高中 new\modules\Dylan_PlugIn\AddSenateTab.pdb
+E:\MyJob\GitHub\AddSenateTab\obj\Debug\AddSenateTab.Properties.Resources.resources
